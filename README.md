@@ -1,4 +1,4 @@
-# Hi, I am Laure! ## aka Loulou
+# Hi, I am Laure!
 ## aka Loulou
 
 💻 I’m a certified Javascript Full-Stack developer with a background in Culture based in Berlin
