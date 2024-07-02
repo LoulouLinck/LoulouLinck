@@ -1,8 +1,10 @@
-# Hi, I am Laure!
+# Hi, I am Laure! ## aka Loulou
 ## aka Loulou
 
 💻 I’m a certified Javascript Full-Stack developer with a background in Culture based in Berlin
+<br>
 📚 I’m open and willing to learn new skills, tools & programming languages
+<br>
 🍳⛰️🎧 I love cooking, wondering around in nature and tuning in with political content
 
 ---
