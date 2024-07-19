@@ -15,6 +15,6 @@
 ---
 ## Contact me
 
-[<img align="left" alt="send me an email" width="25px" src="gmail.svg" />](mailto:laure.lincker@gmail.com@gmail.com)
+[<img align="left" alt="send me an email" width="25px" src="gmail.svg" />](mailto:lincker.laure@gmail.com@gmail.com)
 [<img align="left" alt="linkedin profile" width="25px" src="linkedin.svg" />](https://www.linkedin.com/in/laure-lincker/)
 [<img align="left" alt="portfolio" width="25px" src="internet.png" />](https://louloulinck.github.io/portfolio-site-careerfoundry/index.html#home-page)
