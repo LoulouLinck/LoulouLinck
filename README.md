@@ -5,7 +5,7 @@
 <br>
 📚 I’m open and willing to learn new skills, tools & programming languages
 <br>
-🍳⛰️🎧 I love cooking, wondering around in nature and tuning in with political content
+🍳⛰️🎧 I love cooking, spending time in nature and engaging with content that explores equity, culture, and civic responsibility.
 
 ---
 ## Toolbox
